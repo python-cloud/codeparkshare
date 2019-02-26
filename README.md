@@ -34,6 +34,8 @@ PythonShare
 
 4. 推荐[《笨办法学 Python （Learn Python The Hard Way）》](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
+5. 推荐[《Writing Idiomatic Python》](https://jeffknupp.com/writing-idiomatic-python-ebook/) 教你写出更加Pythonic代码的小册子。
+
 ### 有其他编程语言基础
 
 0. 推荐[《Python基础教程》](http://book.douban.com/subject/4866934/)
@@ -47,6 +49,8 @@ PythonShare
 0. 推荐[Requests 源码阅读](https://github.com/wangshunping/read_requests)
 
 1. [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
+
+2. [《流畅的Python》（《Fluent Python》）](https://book.douban.com/subject/27028517/) 全面深入地讲解Python的语言特性。
 
 ### 更多书籍推荐 
 
